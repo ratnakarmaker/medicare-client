@@ -7,7 +7,7 @@ Medicare Website
 
 ### Features
 #### This website has user and admin panel, 
-* where a user can place a order, see their order list and give his/her feadback about the order experience.
+* Where a user can place a order, see their order list and give his/her feadback about the order experience.
 * Also a Admin can add a product also can delete any product and change order process.Also admin can make another admin.
 
 ### Technology
