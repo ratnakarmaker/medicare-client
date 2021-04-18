@@ -1,0 +1,22 @@
+.clientFeedBack {
+  padding: 10%;
+  background-color: rgb(17 150 204 / 56%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.clientFeedBack__card.card {
+  border: none;
+  padding: 10px;
+  box-shadow: 10px 10px 50px lightgray;
+  cursor: pointer;
+}
+
+.card {
+  background-color: white !important;
+}
+
+h1{
+  color: black;
+  font-family:'Times New Roman', Times, serif;
+}

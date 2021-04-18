@@ -1,0 +1,38 @@
+.bg-gray {
+    background-color: #F1F1F1;
+}
+
+.card {
+    background-color: transparent;
+    border: 0px;
+}
+
+.card-title {
+    font-family: "Playfair Display",sans-serif;
+    font-weight: 600;
+    color: #333;
+}
+
+.card-text {
+    color: gray;
+}
+
+.read {
+    color: #2f3241;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+/* .read:hover {
+    border: 3px solid rgb(17, 150, 204);
+    padding: 3px 10px;
+    width: 65%;
+    border-radius: 5px;
+    letter-spacing: 2px;
+} */
+
+.arrow {
+    margin-left: 5px;
+}

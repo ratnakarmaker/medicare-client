@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Actor&display=swap");
+.footer {
+  background-color: #fbd062;
+}
+
+.form__focusEmail {
+  height: 50px;
+  border: none;
+  font-size: 15px;
+  font-family: "Actor", sans-serif;
+  font-weight: bold;
+}
+
+.form__focusEmail::placeholder {
+  color: #000;
+}
+.form__focus {
+  height: 50px;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Actor", sans-serif;
+}
+
+.form__focusEmail:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+.form__focus:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.form__focusMessage {
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Actor", sans-serif;
+}
+
+.form__focusMessage:focus {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+ footer{
+  background: #111!important;
+}
+
+footer > ul.list-unstyled.list-inline.text-center.py-2 > li:nth-child(2) > a{
+background: #008f85;
+font-weight: 600;
+padding: 0.4rem 1.4rem;
+border-radius: 30px;
+border: none;
+}

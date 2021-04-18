@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap");
+.service {
+  padding: 5% 10%;
+  font-family: "Playfair Display",sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.service__header {
+  color: #1296cc;
+}
+
+.service__img {
+  width: 100px;
+  padding: 10px 0;
+}
+
+.service__card {
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+  font-family: "Libre Baskerville", serif;
+}
+
+.service__card:hover {
+  box-shadow: 10px 10px 50px lightgray;
+}
