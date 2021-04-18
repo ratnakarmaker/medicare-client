@@ -19,7 +19,7 @@ const AddAdminForm = () => {
 
   return (
     <>
-      <Form  onSubmit={handleSubmit(onSubmit)}>
+      {/* <Form  onSubmit={handleSubmit(onSubmit)}>
         <Form.Group controlId="formBasicEmail">
           <Form.Label
             ref={register({
@@ -36,9 +36,9 @@ const AddAdminForm = () => {
         <Button variant="primary" type="submit">
           Confirm
         </Button>
-      </Form>
+      </Form> */}
 
-      {/* <Container className="addAdminForm">
+      <Container className="addAdminForm">
         <Form onSubmit={handleSubmit(onSubmit)}>
           <Row>
             <Col md={6}>
@@ -72,7 +72,7 @@ const AddAdminForm = () => {
             </Col>
           </Row>
         </Form>
-      </Container> */}
+      </Container>
     </>
   );
 };
